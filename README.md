@@ -21,4 +21,4 @@ My name is Khalid Hussain, and I am currently a senior Computer Science major an
 
 - YelpCamp: An Express.js application, with a MongoDB database, allowing authenticated users to leave reviews on different campgrounds in the United States.
 
-- Northfield Area Learning Center Lunch Ordering: A Django application for the city of Northfield [Area Learning Center](https://northfieldschools.org/schools/area-learning-center/) allowing authenticated students to order meals for lunch & authenticated staff to monitor orders via a dashboard.
+- Northfield Area Learning Center Lunch Ordering: A Django application, with a PostgreSQL database, for the city of Northfield [Area Learning Center](https://northfieldschools.org/schools/area-learning-center/) allowing authenticated students to order meals for lunch & authenticated staff to monitor orders via a dashboard.
