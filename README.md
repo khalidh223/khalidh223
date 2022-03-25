@@ -37,6 +37,6 @@ _Cloud Platforms_
 - [khalidh-dev](https://github.com/khalidh223/khalidh-dev): A React.js application for my personal website & blog.
 <img src="https://user-images.githubusercontent.com/53101332/159212228-090e8bec-e727-4faf-a970-ab67f4c210a2.png" height="200px" />
 
-- YelpCamp: An Express.js application, with a MongoDB database, allowing authenticated users to leave reviews on different campgrounds in the United States.
+- [YelpCamp](https://github.com/khalidh223/YelpCamp): An Express.js application, with a MongoDB database, allowing authenticated users to leave reviews on different campgrounds in the United States.
 
 - Northfield Area Learning Center Lunch Ordering: A Django application, with a PostgreSQL database, for the city of Northfield [Area Learning Center](https://northfieldschools.org/schools/area-learning-center/) allowing authenticated students to order meals for lunch & authenticated staff to monitor orders via a dashboard.
