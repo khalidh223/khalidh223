@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Khalid Hussain, and I am currently a senior Computer Science major and Arabic minor at Carleton College, located in Northfield, MN.  I am interested in full stack web development within a variety of frameworks, and in seeking employment as a Full Stack Web Developer. I also like Deep Learning and other applications of AI more broadly.
+My name is Khalid Hussain, and I am currently a senior Computer Science major and Arabic minor at Carleton College, located in Northfield, MN. In June 2022, I will be working for [Foodsby](https://home.foodsby.com/) as an Associate Software Engineer. I am interested in full stack web development within a variety of frameworks, and I also like Deep Learning and the other applications of AI more broadly.
 
 -🌲 I have experience with:
 
